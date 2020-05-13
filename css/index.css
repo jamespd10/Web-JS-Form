@@ -1,0 +1,19 @@
+.footer{
+    background-color:gray;
+}
+a i{
+    color: black;
+}
+#url{
+    color: black;
+}
+#contactoBtn{
+    background-color: black;
+    color: white;
+}
+@media screen and (max-width: 1000px) {
+    .map iframe{
+        width: 100%;
+        height: 350px;
+    }
+  }
